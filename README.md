@@ -5,7 +5,7 @@ I am a student of Systems Analysis and Development at Senac-PE. Passionate about
 ## Contact me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mateus-henrique-assis)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mateushenriqueaabc@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateushenriqueaabc@gmail.com.br)
 
 ## Technologies and Tools used in daily life
 
