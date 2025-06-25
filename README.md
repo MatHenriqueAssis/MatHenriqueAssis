@@ -24,8 +24,11 @@ I am a Systems Analysis and Development student at Senac-PE. Passionate about ba
 
 </div>
 
-
 ## My GitHub Stats
 
 ![Mateus GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatHenriqueAssis&show_icons=true&theme=highcontrast)
+
+## Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatHenriqueAssis&layout=compact&theme=highcontrast)
 
