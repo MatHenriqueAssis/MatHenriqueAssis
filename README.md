@@ -1,6 +1,6 @@
 ## Hello! My name is Mateus Henrique 
 
-I am a student of Systems Analysis and Development at Senac-PE. Passionate about the field of data science, from data manipulation to data analysis and machine learning. I am always striving to improve in the data field and acquire knowledge in new technologies and tools.
+I am a Systems Analysis and Development student at Senac-PE. Passionate about back-end development, from building APIs to implementing business logic and security best practices. I am always looking to improve my skills in back-end development and to learn new technologies and tools.
 
 ## Contact me
 
@@ -11,12 +11,16 @@ I am a student of Systems Analysis and Development at Senac-PE. Passionate about
 
 <div sytle= "Display : inline_block" aling= "center">
 
-<img aling= "center" alt="Descrição da imagem" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="50">
-<img aling= "center" alt="Jupyter Notebook" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png"  width="50">
-<img aling= "center" alt="Descrição da imagem" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" width="50">
-<img aling= "center" alt="Descrição da imagem" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" width="50">
-<img aling= "center" alt="Descrição da imagem" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" width="50">
-<img aling= "center" alt="Descrição da imagem" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="50">
+<img align="center" alt="Python" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="50">
+<img align="center" alt="Jupyter Notebook" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" width="50">
+<img align="center" alt="Flask" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" width="50">
+<img align="center" alt="MySQL" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="50">
+<img align="center" alt="Java" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="50">
+<img align="center" alt="Git" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="50">
+<img align="center" alt="JavaScript" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="50">
+<img align="center" alt="Node.js" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nodejs.png" width="50">
+<img align="center" alt="Spring" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" width="50">
+
 </div>
 
 
